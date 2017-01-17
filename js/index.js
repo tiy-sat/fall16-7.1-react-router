@@ -1,8 +1,8 @@
 import React from 'react'
 import { render } from 'react-dom'
-import ShoppingCart from './ShoppingCart'
+import Home from './Home'
 
 render(
-  ( <ShoppingCart /> ),
+  ( <Home /> ),
   document.getElementById('app')
 )
